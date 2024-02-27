@@ -12,25 +12,24 @@
    <br>
  *  Winning Logic: The game checks for a winning condition after each move and declares the winner or a draw.
    <br>
- *  Reset Option: Players can reset the game at any point to start a new match.
-   <br>
-## Technologies Used
- *  HTML: Structure of the game board and user interface.
-   <br>
- *  CSS: Styling to enhance the visual appeal and responsiveness.
-   <br>
- *  JavaScript: Game logic and interactivity.
-   <br>
+ -  Reset Option: Players can reset the game at any point to start a new match.
+    <br>
+##  Technologies Used
+  *  HTML: Structure of the game board and user interface.
+    <br>
+ *   CSS: Styling to enhance the visual appeal and responsiveness.
+     <br>
+ *   JavaScript: Game logic and interactivity.
+     <br>
 ## How to Play
- *  Open the index.html file in your web browser.
- *  <br>
- *  Enter player names (optional).
- *  Players take turns to click on an empty cell to make their move.
- *  The game will automatically check for a winner or a draw after each move.
- *  Click the "Reset" button to start a new game.
- *  Getting Started
-*  To run the game locally, clone the repository and open the index.html file in your preferred web browser. No additional dependencies 
-   or installations are required.
+   *  Open the index.html file in your web browser.
+   *  Enter player names (optional).
+   *  Players take turns to click on an empty cell to make their move.
+   *  The game will automatically check for a winner or a draw after each move.
+   *  Click the "Reset" button to start a new game.
+   *  Getting Started
+   *  To run the game locally, clone the repository and open the index.html file in your preferred web browser. No additional 
+      dependencies or installations are required.
 
 bash Copy code
 git clone https://github.com/your-username/tic-tac-toe.git
