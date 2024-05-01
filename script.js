@@ -23,5 +23,5 @@ cells.forEach((box)=>
 
 let resetbtn=document.querySelector(".resetbtn");
 resetbtn.addEventListener("click",()=>{
-    cells.forEach((re))
+    cells.forEach(())
 })
